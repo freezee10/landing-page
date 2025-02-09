@@ -31,7 +31,7 @@ ul {
   display: flex;
   text-decoration: none;
   gap: 15px;
-  margin-right: 315px;
+  margin-right: 185px;
 }
 
 ul a {
@@ -40,6 +40,8 @@ ul a {
  list-style-type: none;
 
 }
+
+
 .logo {
   width: 175px;
 
